@@ -34,4 +34,6 @@
 
 ![Задание 2](https://github.com/Markin-AI/13-2/blob/main/img/2-3.png)
 
+![Задание 2](https://github.com/Markin-AI/13-2/blob/main/img/2-4.png)
+
 ---

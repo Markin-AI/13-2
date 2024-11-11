@@ -30,5 +30,8 @@
 
 ![Задание 2](https://github.com/Markin-AI/13-2/blob/main/img/2-1.png)
 
+![Задание 2](https://github.com/Markin-AI/13-2/blob/main/img/2-2.png)
+
+![Задание 2](https://github.com/Markin-AI/13-2/blob/main/img/2-3.png)
 
 ---
